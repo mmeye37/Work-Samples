@@ -1,2 +1,2 @@
 # Work-Samples
-Samples of projects previously completed.
+Samples of previously completed projects.
